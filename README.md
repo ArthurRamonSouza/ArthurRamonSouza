@@ -16,7 +16,7 @@
 
  <h3 align="center"> Sinta-se à vontade para dar uma olhadinha por aí e entrar em contato comigo através dos links logo abaixo!</h3>
  
- <div align="center">
+ <div align="center" style="float: left">
  <a href="https://github.com/ArthurRamonSouza">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurRamonSouza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurRamonSouza&layout=compact&langs_count=7&theme=tokyonight"/>
