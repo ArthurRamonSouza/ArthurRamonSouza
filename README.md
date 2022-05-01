@@ -4,19 +4,19 @@
 
 <p> 
   Meus atuais interesses são nas áreas de desenvolvimento back-end e análise de dados. Gosto muito <b>(muito mesmo)</b> de progrmar 
-  em Java e estou constantemente procurando aperfeiçoar minhas habilidades com a linguagem. Porém, recentemente conheci a análises 
+  em Java e estou constantemente procurando aperfeiçoar minhas habilidades com a linguagem. Porém, recentemente conheci a análise 
   de dados e o Python. Confesso que me encantei pela linguagem e por isso ando me enfiando nas documentações de algumas bibliotecas
-  famosas utilizadas na análise de dados, à procura de mais conhecimento.
+  utilizadas para manipulação de dados, à procura de mais conhecimento.
 </p>
 
 <p> 
-  Aqui no GitHub você pode encontrar alguns arquivos de projetos que venho desenvolvendo durante a minha imersão no mundo da tecnologia, por 
-  isso sempre tento deixar o meu portiólio organizado e com o máximo de explicações possíveis 😁
+  Aqui, no GitHub, você pode encontrar alguns arquivos de projetos que venho desenvolvendo durante a minha imersão no mundo da tecnologia, por 
+  isso, tento deixar o meu portiólio organizado e com o máximo de explicações possíveis 😁
 </p>
 
  <h3 align="center"> Sinta-se à vontade para dar uma olhadinha por aí e entrar em contato comigo através dos links logo abaixo!</h3>
  
- <div align="center">
+ <div align="center" style="display: inline_block">
  <a href="https://github.com/ArthurRamonSouza">
    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=ArthurRamonSouza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurRamonSouza&layout=compact&langs_count=7&theme=tokyonight"/>
