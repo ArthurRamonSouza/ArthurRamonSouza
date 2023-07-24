@@ -1,12 +1,13 @@
 <h1 align="center"> Bem vindo ao meu portifólio no GitHub! </h1>
 
-<h3> Eu sou Arthur Ramón Souza, estudante de ciência da computação na Universidade Federal da Paraíba.</h3>
+<h3> Eu sou Arthur Ramón Souza e sou estudante de ciência da computação na Universidade Federal da Paraíba.</h3>
 
 <p> 
-  Meus atuais interesses são nas áreas de desenvolvimento back-end e análise de dados. Gosto muito <b>(muito mesmo)</b> de progrmar 
-  em Java e estou constantemente procurando aperfeiçoar minhas habilidades com a linguagem. Porém, recentemente conheci a análise 
-  de dados e o Python. Confesso que me encantei pela linguagem e por isso ando me enfiando nas documentações de algumas bibliotecas
-  utilizadas para manipulação de dados, à procura de mais conhecimento.
+Atualmente, meus interesses estão voltados para as áreas de desenvolvimento back-end e análise de dados. Tenho uma paixão (uma verdadeira paixão!) por programar em Java e estou sempre em busca de aprimorar minhas habilidades com essa linguagem.
+
+No entanto, recentemente, fui apresentado à análise de dados e ao Python. Confesso que me encantei por essa linguagem e, por isso, tenho me dedicado a explorar a documentação de algumas bibliotecas usadas para manipulação de dados, na busca por mais conhecimento.
+
+Meu objetivo é ampliar minha expertise em programação e análise de dados para contribuir em projetos inovadores e desafiadores. Estou empolgado com as oportunidades que a área de Ciência da Computação oferece e estou determinado a aprender e crescer continuamente para me tornar um profissional mais completo e competente.
 </p>
 
 <p> 
