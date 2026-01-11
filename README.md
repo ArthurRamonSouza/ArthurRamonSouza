@@ -2,16 +2,20 @@
 
 <h3 align="center">AI Engineer | Backend Developer | Ciência da Computação @ UFPB</h3>
 
+<p align="center">
+  <b>Python (FastAPI, Django) | TypeScript (Node.js) | Java (Spring Boot) | AI Agents</b>
+</p>
+
 <p>
 Atualmente, foco em construir a ponte entre sistemas robustos e Inteligência Artificial. Atuo como <b>AI Engineer na YAITEC Solutions</b>, onde desenvolvo arquiteturas de agentes inteligentes e sistemas RAG complexos.
 </p>
 
 <p>
-No <b>Backend</b>, especializo-me em criar APIs de alta performance utilizando <b>Python (FastAPI, Django)</b> e <b>TypeScript (Node.js)</b>. Tenho sólida experiência em modelagem de dados com <b>PostgreSQL (Prisma ORM)</b>, containerização com <b>Docker</b> e padrões de projeto como <b>Repository</b> e <b>Singleton</b>.
+No <b>Backend</b>, especializo-me em criar APIs de alta performance utilizando <b>Python (FastAPI, Django)</b> e <b>TypeScript (Node.js)</b>. Possuo também sólidos conhecimentos no ecossistema <b>Java com Spring Boot</b>. Tenho experiência em modelagem de dados com <b>PostgreSQL (Prisma/Hibernate)</b>, containerização com <b>Docker</b> e padrões de projeto como <b>Repository</b> e <b>Singleton</b>.
 </p>
 
 <p>
-Na área de <b>IA & LLMs</b>, desenvolvo sistemas <b>Multiagentes</b> utilizando <b>LangGraph e CrewAI</b>, criando ferramentas customizadas para integração de serviços de voz (ElevenLabs) e imagem (Stable Diffusion). Domino pipelines de <b>RAG</b> com <b>ChromaDB</b> e técnicas de <i>chunking</i>, além de infraestrutura em nuvem na <b>Microsoft Azure</b>.
+Na área de <b>IA & LLMs</b>, desenvolvo sistemas <b>Multiagentes</b> utilizando <b>LangGraph e CrewAI</b>, criando ferramentas customizadas para integração de serviços de voz (ElevenLabs) e imagem (Stable Diffusion). Domino pipelines de <b>RAG</b> com <b>ChromaDB/Qdrant</b> e suporte de infraestrutura em nuvem na <b>Microsoft Azure</b>.
 </p>
 
 <p>
@@ -23,6 +27,8 @@ Aqui no GitHub, você encontrará projetos que demonstram a aplicação prática
 <div align="center">
     <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+    <img alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+    <img alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
     <img alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
     <img alt="FastAPI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">
     <img alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
